@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! Me chamo Nicolly Mendes
+- 🔭 Atualmente atuo na área de Desenvolvimento como Estagiária
+- 🌱 Estou aprendendo Python
+- 🎓 4° semestre de Engenharia de Software
+- 📪 Contate-me pelo email: nicollycescon22@gmail.com
 
-<!--
-**NicollyMendes/NicollyMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+    <a href="https://github.com/NicollyMendes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollyMendes&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyMendes&layout=compact&langs_count=16&theme=dracula"/>
+  </div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  Ferramentas Tecnológicas:
+  <img align="center" alt="Nick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nick-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <a href="https://is.gd/QXus5m"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+</div>        
+
+
+          
