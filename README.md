@@ -6,10 +6,11 @@
 
 <div>
   <a href="https://github.com/NicollyMendes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollyMendes&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollyMendes&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyMendes&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   Ferramentas Tecnológicas:
