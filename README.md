@@ -1,7 +1,7 @@
 ## Olá! Me chamo Nicolly Mendes
 - 🔭 Atualmente atuo na área de Desenvolvimento como Estagiária
 - 🌱 Estou aprendendo Python
-- 🎓 4° semestre de Engenharia de Software
+- 🎓 5° semestre de Engenharia de Software
 - 📪 Contate-me pelo email: nicollycescon22@gmail.com
 
 <div>
