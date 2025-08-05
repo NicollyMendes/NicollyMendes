@@ -1,6 +1,6 @@
 ## Olá! Me chamo Nicolly Mendes
-- 🔭 Atualmente atuo na área de Desenvolvimento como Estagiária
-- 🌱 Estou aprendendo Python
+- 🔭 Atualmente atuo na área de Automação e Agente de IA
+- 🌱 Estou aprendendo Automações/Agentes IAs
 - 🎓 5° semestre de Engenharia de Software
 - 📪 Contate-me pelo email: nicollycescon22@gmail.com
 
