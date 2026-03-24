@@ -1,6 +1,6 @@
 ## Olá! Me chamo Nicolly Mendes
-- 🔭 Atualmente atuo na área de Automação e Agente de IA
-- 🌱 Estou aprendendo Automações/Agentes IAs
+- 🔭 Atualmente atuo na área de Suporte e Desenvolvimento
+- 🌱 Estou aprendendo IA
 - 🎓 6° semestre de Engenharia de Software
 - 📪 Contate-me pelo email: nicollycescon22@gmail.com
 
